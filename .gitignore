@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+.env
+.env.*
+*.pem
+*.key
+application-local.properties
